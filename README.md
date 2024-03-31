@@ -5,7 +5,7 @@ A simple command line password generator written in go.
 
 ## ./passwordGen.exe generate [options]
 
-# example
+# Example
 
 ## ./passwordGen.exe generate -h
 
