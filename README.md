@@ -1,16 +1,20 @@
 # passwordGen
 A simple command line password generator written in go.
 
-go build .
+## go build .
 
-./passwordGen.exe generate [options]
+## ./passwordGen.exe generate [options]
 
-example
+# example
 
-./passwordGen.exe generate -h
+## ./passwordGen.exe generate -h
 
-Show help
+Shows help
 
-./passwordGen.exe generate -l 16 -d -s
+## ./passwordGen.exe generate
 
- Generates a random password 16 chars long including digits and special chars.
+The default option is to generate an 8 char password of mixed upper and lower case.
+
+## ./passwordGen.exe generate -l 16 -d -s
+
+ Generates a random password 16 chars long (-l 16) including digits (-d) and special chars (-s).
