@@ -12,4 +12,5 @@ example
 Show help
 
 ./passwordGen.exe generate -l 16 -d -s
+
  Generates a random password 16 chars long including digits and special chars.
