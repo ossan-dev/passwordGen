@@ -2,6 +2,7 @@
 A simple command line password generator written in go.
 
 go build .
+
 ./passwordGen.exe generate [options]
 
 example
