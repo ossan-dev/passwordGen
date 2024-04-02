@@ -1,5 +1,7 @@
 module passwordGen
 
+// FIXME: this should be something like github.com/DiscoMouse/<yourmodulepath>
+
 go 1.21.5
 
 require (
