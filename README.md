@@ -1,6 +1,6 @@
 # passwordGen
 A simple command line password generator written in go.
-Inspired by a YouTube videe by Melkey which is a tutorial for using Cobra and Cobra CLI
+Inspired by a YouTube video by Melkey which is a tutorial for using Cobra and Cobra CLI
 
 https://www.youtube.com/watch?v=yybzcix10XI
 
